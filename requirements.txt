@@ -1,0 +1,4 @@
+# Fill this as needed, e.g.:
+# websockets
+# opencv-python
+# ultralytics
